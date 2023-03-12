@@ -31,6 +31,6 @@ Next, write the pixel data to the file. The program loop over each row and colum
 
 
 ## Comparision
-24 bit pepers image before an after quantization to 0 8 8 (RGB)
+24 bit pepers image before an after quantization to 8 8 0 (RGB)
 
 ![image](https://user-images.githubusercontent.com/65772647/224569146-4bf246dd-4e8d-4296-867b-0b702d7fd565.png)
