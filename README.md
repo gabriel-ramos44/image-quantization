@@ -28,3 +28,8 @@
   Write the width and height of the image to the file header. This is done using the struct.pack() function to pack each value as an unsigned 32-bit integer ("I") and write it to the file.
 
 Next, write the pixel data to the file. The program loop over each row and column of the image, and write each pixel to the file as a sequence of three bytes, in the order (R, G, B).
+
+
+## Comparision
+24 bit pepers image before an after quantization to 0 8 8 (RGB)
+![image](https://user-images.githubusercontent.com/65772647/224569146-4bf246dd-4e8d-4296-867b-0b702d7fd565.png)
